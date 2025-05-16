@@ -81,6 +81,9 @@
     <EmbeddedResource Include="AddClientForm.resx">
       <DependentUpon>AddClientForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="AddWorkerForm.resx">
+      <DependentUpon>AddWorkerForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -126,6 +129,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AddclientForm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Worker Matching2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Worker Matching %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Worker Matching %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Worker Matching %283%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

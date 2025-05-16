@@ -93,9 +93,49 @@ namespace DBASSignment.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Worker_Matching__1_ {
+            get {
+                object obj = ResourceManager.GetObject("Worker Matching (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Worker_Matching__2_ {
+            get {
+                object obj = ResourceManager.GetObject("Worker Matching (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Worker_Matching__3_ {
+            get {
+                object obj = ResourceManager.GetObject("Worker Matching (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Worker_Matching1 {
             get {
                 object obj = ResourceManager.GetObject("Worker Matching1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Worker_Matching2 {
+            get {
+                object obj = ResourceManager.GetObject("Worker Matching2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
